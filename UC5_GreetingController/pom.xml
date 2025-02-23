@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>UC4_GreetingController</artifactId>
+	<artifactId>UC5_GreetingController</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>UC4_GreetingController</name>
-	<description>UC4 project for rest api</description>
+	<name>UC5_GreetingController</name>
+	<description>UC5 project for rest api</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -64,7 +64,6 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-
 	</dependencies>
 
 	<build>
